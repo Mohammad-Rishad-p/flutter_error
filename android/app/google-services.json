@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1079786585397",
+    "project_id": "exampractice-7460c",
+    "storage_bucket": "exampractice-7460c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1079786585397:android:375864e805c4d6a519e07c",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBN_ChGC5nO-2YPWpvXSqddShtc63lUbGQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1079786585397:android:00b071456179c2bc19e07c",
+        "android_client_info": {
+          "package_name": "ddukk.mvocsad.cusat.abcemail"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBN_ChGC5nO-2YPWpvXSqddShtc63lUbGQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
